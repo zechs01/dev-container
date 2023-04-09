@@ -1,0 +1,27 @@
+.landingSection {
+    color: white;
+    text-align: center;
+   margin-top: 80px;
+   margin-left: 100px;
+   margin-right: 100px;
+   padding: 100px;
+   padding-top: 150px;
+   border: 1px solid rgb(222, 222, 153);
+border-radius: 25px;
+background-color: rgb(31, 31, 31);
+}
+.landingSection img {
+    opacity: 1;
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid rgb(222, 222, 153);
+}
+ .landingSection h1, h2 {
+    color: white;
+ }
+ .landingSection p {
+    color: white;
+    font-size: larger;
+ }

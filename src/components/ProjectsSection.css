@@ -1,0 +1,45 @@
+.projects {
+    margin-top: 20px;
+      margin-left: 100px;
+      margin-right: 100px;
+      margin-bottom: 20px;
+  border: 1px solid rgb(222, 222, 153);
+  border-radius: 25px;
+  background-color: rgb(31, 31, 31);
+}
+
+.projects > h1 {
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    padding-left: 110px;
+}
+
+.flexbox {
+  display: grid;
+  grid-template-columns: 520px 520px;
+  gap: 70px;
+padding: 100px;
+padding-top: 50px;
+  
+        
+}
+
+.flexbox #project {
+    background-color: rgb(31, 31, 31);
+    text-decoration-line: none;
+    border-radius: 25px;
+    border: 1px solid rgb(222, 222, 153);
+}
+
+.flexbox #project h1, p {
+    color: rgb(255, 255, 255);
+   padding-left: 10px;
+}
+
+.flexbox #project img {
+  height: 250px;
+  width: 500px;
+   padding: 10px;
+    border-radius: 25px; 
+       
+}
